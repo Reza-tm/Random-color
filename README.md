@@ -1,4 +1,4 @@
-# Random-color
+# Random color
 A new mini project To give Random color hex code and copy it with click
 <hr>
 
